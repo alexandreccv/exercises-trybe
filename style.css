@@ -8,7 +8,7 @@ body.dark-mode {
 }
 
 body.light-mode {
-  background-color: #ffffff;
+  background-color: #d8e6eb;
   color: #000000;
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
